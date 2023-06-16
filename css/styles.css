@@ -11,6 +11,7 @@ body {
 	background-color: #f8f8fc;
 } 
 
+
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
@@ -24,6 +25,7 @@ body {
 .resume-aside {
 	background-color: #FFE4C4; font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
 }
+
 
 /* Styles for lists in the document */
 
